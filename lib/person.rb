@@ -1,5 +1,5 @@
-class person
-  def voice
+class Person
+  def Voice
     puts "Hello"
 end
   
