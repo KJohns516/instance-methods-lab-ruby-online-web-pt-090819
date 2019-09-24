@@ -1,5 +1,5 @@
 class Dog 
-  def bark
+  def Bark
     puts "Woof!"
   end
 end
@@ -11,5 +11,5 @@ Fido.Object_id
 end
 
 Fido = Dog.new  
-Fido.methods
+Fido.Methods
 end
