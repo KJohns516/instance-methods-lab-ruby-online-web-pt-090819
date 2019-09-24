@@ -3,3 +3,4 @@ class person
     puts "Hello"
 end
   
+Christopher = person
