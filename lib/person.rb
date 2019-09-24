@@ -3,4 +3,5 @@ class Person
     puts "Hello"
 end
   
-Christopher = Person.new  
+Christopher = Person.new
+Christopher = voice
