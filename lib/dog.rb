@@ -5,7 +5,7 @@ class Dog
 end
 
 Fido = Dog.new  
-Fido.bark #>
+Fido.bark #> "Woof!"
 
 Fido.object_id
 end
