@@ -4,4 +4,4 @@ class Person
 end
   
 Christopher = Person.new
-Christopher = voice
+Christopher.Voice
