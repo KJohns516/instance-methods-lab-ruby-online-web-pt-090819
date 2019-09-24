@@ -5,6 +5,7 @@ class Dog
 end
 
 Fido = Dog.new  
+Fido -
 
 Fido.object_id
 end
