@@ -1,2 +1,2 @@
-Cerson
+class person
   
