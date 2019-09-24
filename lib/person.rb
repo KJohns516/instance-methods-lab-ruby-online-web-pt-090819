@@ -10,4 +10,4 @@ Christopher.Object_id
 end
 
 Christopher = Person.new
-
+Christopher.Methods
