@@ -1,4 +1,6 @@
 class Dog 
+
+
 end
 
 Fido = Dog.new  
@@ -8,3 +10,4 @@ end
 
 Fido = Dog.new  
 Fido.methods
+end
