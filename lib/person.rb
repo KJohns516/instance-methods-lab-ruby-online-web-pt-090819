@@ -5,3 +5,5 @@ end
   
 Christopher = Person.new
 Christopher.Voice #> "Hello!"
+
+Christopher.O
