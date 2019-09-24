@@ -6,4 +6,4 @@ end
 Christopher = Person.new
 Christopher.Voice #> "Hello!"
 
-Christopher.Object
+Christopher.Object_id
