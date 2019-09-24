@@ -1,5 +1,6 @@
 class Dog 
 end
 
-fido = Dog.new  
-fido.object_id
+Fido = Dog.new  
+
+Fido.object_id
