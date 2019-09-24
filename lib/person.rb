@@ -1,4 +1,5 @@
 class person
-  def "Hello!"
+  def voice
+    
 end
   
